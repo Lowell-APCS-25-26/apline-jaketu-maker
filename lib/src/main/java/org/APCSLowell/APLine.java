@@ -8,5 +8,5 @@ public class APLine {
     }
     public double getSlope() {
         return -(double)a / (double)b;
-    }
+    } 
 }
